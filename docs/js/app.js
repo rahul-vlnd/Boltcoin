@@ -73,6 +73,7 @@ App = {
         content.hide();
 
         web3.eth.getCoinbase(function (err, account) {
+            if(err) window.reload();
             if (err == null) {
                 App.account = account;
                 console.log(account);
