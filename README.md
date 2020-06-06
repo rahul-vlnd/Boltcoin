@@ -1,1 +1,1 @@
-#This is a new Gen Crypto Currency BoltCoin
+# This is a new Gen Crypto Currency BoltCoin
