@@ -1,7 +1,1 @@
-# token_sale
-
-# Boltcoin
-"# Boltcoin" 
-"# Boltcoin" 
-"# Boltcoin" 
-"# Boltcoin" 
+#This is a new Gen Crypto Currency BoltCoin
